@@ -1,0 +1,3 @@
+This notebook builds a machine learning model to analyze and predict climate patterns using environmental data. It starts by loading and cleaning a climate dataset, handling missing and inconsistent values. Then it performs basic data exploration and visualization, including trends in temperature and CO₂ levels, and generates a correlation heatmap to understand relationships between variables.
+
+Finally, it uses a RandomForestRegressor to predict average temperature based on multiple environmental factors, and evaluates the model’s performance using metrics like Mean Squared Error and R² score.
